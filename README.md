@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am passionate Competetive Programmer<br>I have use C++ as my primary Language
+I am passionate Competitive Programmer<br>I have used C++ as my primary Language for DSA and CP.
 
 
 ## 🌐 Socials:
